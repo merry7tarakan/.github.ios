@@ -1,0 +1,5 @@
+.mid {
+	display: grid;
+	grid-template-columns: 1200px 1200px;
+	justify-content: space-between;
+  }

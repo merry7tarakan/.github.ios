@@ -1,0 +1,8 @@
+.h3__flexbox__hamburger-icon {
+  background: linear-gradient(to bottom, #fff 0%, #fff 8%, transparent 8%, transparent 46%, #fff 46%, #fff 53%, transparent 53%, transparent 92%, #fff 92%, #fff 100%, transparent 100%);
+  color: #fff;
+  height: 44px;
+  width: 48px;
+  margin-top: 22px;
+  margin-right: 30px;
+}

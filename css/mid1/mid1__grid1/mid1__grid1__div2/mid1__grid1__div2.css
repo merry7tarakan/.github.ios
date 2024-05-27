@@ -1,0 +1,7 @@
+.mid1__grid1__div2 {
+    display: flex;
+/*     flex-direction: row;
+    flex-wrap: nowrap ;
+    justify-content: space-between*/;
+    align-items: flex-end;
+  }
